@@ -27,5 +27,7 @@ conda install python=3.9 #於新環境中設置python3.9，由於api中套件wx,
 ```
 pip install wxPython-4.1.1-cp39-cp39-win32.whl
 ```
+- 執行後跳出登入視窗如下圖所示
+![image](https://user-images.githubusercontent.com/72643996/228880830-90aeef64-2446-4c3a-a591-924e091ec88a.png)
 - 輸入元大期貨帳戶與交易密碼
 - 右欄註冊區輸入產品代碼(e.g. 小型台指FIMTX)
