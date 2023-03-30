@@ -21,10 +21,10 @@ conda install python=3.9 #於新環境中設置python3.9，由於api中套件wx,
   - 可以打開C:\anaconda\envs\ENV_32BIT\python.exe，成功顯示python=3.9
 - install wxpython 32-bits
 (https://files.pythonhosted.org/packages/05/d1/40ca8bacba94d49d3c379a0ea0220cb9594f45978a40c321a46d4727d93e/wxPython-4.1.1-cp39-cp39-win32.whl)
-- install comtypes
+- install comtypes (do it in anaonda prompt : conda install -c free comtypes)
 - activigate jupyter or spyder or vs-code, for running Yuantaapi.py
 - after install wxpython 32-bits, move whl file to vs-code directory (C:\Users\User)
-- run Yuantaapi.py in vs-code and type in
+- run Yuantaapi.py in vs-code and type in vs terminal
 ```
 pip install wxPython-4.1.1-cp39-cp39-win32.whl
 ```
