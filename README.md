@@ -10,6 +10,7 @@
 - anaconda 64-bits
 - create python 32-bits environment
   - 開啟anaconda prompt, 輸入以下指令創建新環境
+- 詳情可看(https://www.youtube.com/watch?v=o1Zzw-Y_n2g)
 ```
 set CONDA_FORCE_32BIT=1 #名稱自定
 set #開始建置
