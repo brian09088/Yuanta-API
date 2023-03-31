@@ -30,5 +30,6 @@ pip install wxPython-4.1.1-cp39-cp39-win32.whl
 ```
 - 執行後跳出登入視窗如下圖所示
 ![image](https://user-images.githubusercontent.com/72643996/228880830-90aeef64-2446-4c3a-a591-924e091ec88a.png)
+![api連線成功](https://user-images.githubusercontent.com/72643996/229060823-ae01c109-6e4a-4b47-8660-a81cc4144802.png)
 - 輸入元大期貨帳戶與交易密碼
 - 右欄註冊區輸入產品代碼(e.g. 小型台指FIMTX)
