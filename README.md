@@ -4,7 +4,7 @@
 
 程式檔案存放位置(C:/Yuanta/QAPI)
 
-vs-code 終端機預設目錄(C:/Usere/User)下方存放wxPython.whl檔案
+vs-code 終端機預設目錄(C:/Users/User)下方存放wxPython.whl檔案
 
 anaconda 要看自己安裝的位置，去設定python-32bits環境
 
