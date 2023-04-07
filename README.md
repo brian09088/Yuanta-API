@@ -1,5 +1,11 @@
 # Yuanta-API 元大期貨交易API串接與自動化交易
 
+!!! 注意檔案目錄安裝路徑要正確，否則容易出現報錯
+程式檔案存放位置(C:/Yuanta/QAPI)
+vs-code 終端機預設目錄(C:/Usere/User)下方存放wxPython.whl檔案
+anaconda 要看自己安裝的位置，去設定python-32bits環境
+===
+
 - 開戶階段-選擇身分別為保險公司-可以拿到行情API權限
 - !一般用戶(自營商交易帳戶)-無法取得權限，只能透過API下單與看盤軟體[例如:元大點金靈](https://www.yuanta.com.tw/eYuanta/securities/aporder/Instructions/836878aa-5e5f-4dc8-9d18-984e9bf5c1cd?TargetId=16b7b99c-7cc5-4b05-9208-58f026f8da0a&TargetMode=2)下單
 
