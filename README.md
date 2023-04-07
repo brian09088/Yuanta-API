@@ -40,7 +40,10 @@ pip install wxPython-4.1.1-cp39-cp39-win32.whl
 - 執行後跳出登入視窗如下圖所示
 ![image](https://user-images.githubusercontent.com/72643996/228880830-90aeef64-2446-4c3a-a591-924e091ec88a.png)
 - 輸入元大期貨帳戶與交易密碼
-- 右欄註冊區輸入產品代碼(e.g. 小型台指FIMTX)
+- 右欄註冊區輸入產品代碼[元大期貨下單商品代碼規則](https://www.multicharts.com.tw/dis/dis_Content.aspx?D_ID=3&SN=5120)
 - 成功連線與註冊
 - ![api連線成功](https://user-images.githubusercontent.com/72643996/229060823-ae01c109-6e4a-4b47-8660-a81cc4144802.png)
+- 商品註冊成功
+- ![image](https://user-images.githubusercontent.com/72643996/230544057-a19ea185-4888-4796-b1cd-51a78d609ada.png)
+
 
